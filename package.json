@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wwunsch23/Burger.git"
+    "url": "git+https://github.com/rtswartz/burger"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wwunsch23/Burger/issues"
+    "url": "https://github.com/rtswartz/burger/issues"
   },
-  "homepage": "https://github.com/wwunsch23/Burger#readme",
+  "homepage": "https://github.com/rtswartz/burger#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
