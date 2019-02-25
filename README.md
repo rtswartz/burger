@@ -2,5 +2,5 @@
 Node, Express, MySQL app also using an ORM
 
 
-![alt text]()
-![alt text]()
+![alt text](https://github.com/rtswartz/burger/blob/master/img1.PNG)
+![alt text](https://github.com/rtswartz/burger/blob/master/img2.PNG)
